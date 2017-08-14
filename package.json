@@ -1,0 +1,24 @@
+{
+  "name": "date_facts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Steele",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSteele01/date-facts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SamSteele01/date-facts/issues"
+  },
+  "homepage": "https://github.com/SamSteele01/date-facts#readme",
+  "description": ""
+}
